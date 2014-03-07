@@ -1,0 +1,12 @@
+target/
+.classpath
+.project
+.settings/
+bin/
+.DS_Store
+.idea/*
+*.iml
+*.eml
+bec-service/bec-service-common/\\Users\\apple\\.m2\\repository/
+bec-web/${ehcache.datatemp}/*
+bec-web/.externalToolBuilders/*
